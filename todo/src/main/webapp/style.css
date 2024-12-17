@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+	font-family: BIZ UDPゴシック;
+	background-color: white;
+	text-align: center;
+}
+
+h1 {
+	font-size: 32px;
+    color: red;
+}
+
+h2 {
+	font-size: 28px;
+    background-color: black;
+    color: red;
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid #8fbc8f;
+}
+
+table {
+	border: 1px solid #5e696c;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%; 					/* テーブル横幅 */
+	border-collapse:  collapse; 	/* 境界線を共有 */
+	
+}
+
+.error-msg {
+    color: red;
+}
